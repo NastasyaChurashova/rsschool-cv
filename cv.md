@@ -3,7 +3,7 @@
 
 ### **Contact Info**
 * **E-mail:** gregarious@list.ru
-* **Mobile:**+371 2015 2929 (Riga)
+* **Mobile:**+371 2015 2929
 * [LinkedIn: profile here.](https://www.linkedin.com/in/nastasya-c-25661135/)
  
 # **Summary**
@@ -27,7 +27,7 @@ All my latest code examples could be found here in [my GitHub account.](https://
 - [TSI lectures on Computer Science, CSS]( https://tsi.lv/?gclid=EAIaIQobChMIkY_1__DL7wIVBdKyCh1xPwZXEAAYASAAEgJbrPD_BwE), Riga (LV);
 - [Coursera lectures on Algorithms]( https://www.coursera.org/learn/algorithms-part1/home/info), recently enrolled;
 - [html Academy courses on CSS, Html, PHP, JS](https://htmlacademy.ru/);
-- [IT YouTube channels](https://www.youtube.com/channel/UChEPL2gOQDSPmpu6SmgvCnw);
+- [IT YouTube channels](https://www.youtube.com/channel/UChEPL2gOQDSPmpu6SmgvCnw).
 
 ### **English**
 * Numerous courses, summer law schools: more than 15 years of active practice in English;
