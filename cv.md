@@ -3,7 +3,7 @@
 
 ### **Contact Info**
 * **E-mail:** gregarious@list.ru
-* **Mobile:**+371 2015 2929
+* **Mobile:**+371 2015 2929 (Riga)
 * [LinkedIn: profile here.](https://www.linkedin.com/in/nastasya-c-25661135/)
  
 # **Summary**
@@ -11,10 +11,10 @@
 Efficient self-actualization as a **Front-end Developer** on the basis of flash-like _development_ and _responsivity_ to the IT World changing realities, my contribution to making the World a better place.
 
 ### **Skills**
-Entry level: HTML5, CSS3, SASS, Bootstrap, Git, Figma, VS Code, PHP 8.0, JS, Photoshop
+Entry level: HTML5, CSS3, SASS, Bootstrap, Git, Figma, VS Code, PHP 8.0, JS, Photoshop.
 
 ### **Code examples**
-All my latest code examples could be found here in [my GitHub account.](https://github.com/NastasyaChurashova)
+All my latest code examples could be found here in [my GitHub account.](https://github.com/NastasyaChurashova).
 
 ### **Experience**
 * [Creating static landing pages](https://github.com/NastasyaChurashova/Sign-up);
